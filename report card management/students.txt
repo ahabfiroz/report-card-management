@@ -1,0 +1,39 @@
+ROLL:234
+NAME:darpan
+English:45
+Mathematics:87
+Science:91
+Social Science:76
+Computer:100
+Hindi:33
+TOTAL:432
+AVERAGE:72.00
+GRADE:B
+PASS:NO
+-----
+ROLL:235
+NAME:aniket
+English:85
+Mathematics:81
+Science:87
+Social Science:94
+Computer:89
+Hindi:33
+TOTAL:469
+AVERAGE:78.17
+GRADE:B
+PASS:NO
+-----
+ROLL:236
+NAME:ahab
+English:100
+Mathematics:100
+Science:100
+Social Science:100
+Computer:100
+Hindi:100
+TOTAL:600
+AVERAGE:100.00
+GRADE:A+
+PASS:YES
+-----
